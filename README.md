@@ -1,2 +1,2 @@
-# boltonOs
+# boltonOS
 unix distribution
